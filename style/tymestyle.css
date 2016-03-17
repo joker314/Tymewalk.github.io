@@ -4,6 +4,9 @@
 .greyed {
     color: #888888;
 }
+a:hover {
+    color: #039903;
+}
 p {
     font-family: "Helvetica", sans-serif;
 }
